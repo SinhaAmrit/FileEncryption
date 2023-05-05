@@ -11,7 +11,13 @@ import javax.swing.JFileChooser;
 import java.io.FileOutputStream;
 
 public class FileEncryption {
-    public static void encrypt(int key) {
+    
+    /**
+     * This function encrypts or decrypts a file using a given key.
+     * 
+     * @param key The encryption/decryption key used to XOR the bytes of the file.
+     */
+    public static void encryptDecrypt(int key) {
         JFileChooser fileChooser = new JFileChooser();
         fileChooser.showOpenDialog(null);
         File file = fileChooser.getSelectedFile();
@@ -57,7 +63,7 @@ public class FileEncryption {
         button.addActionListener(e -> {
             String text = textField.getText();
             int temp = Integer.parseInt(text);
-            encrypt(temp);
+            encryptDecrypt(temp);
         });
 
         frame.setLayout(new FlowLayout());
