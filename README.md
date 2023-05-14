@@ -43,7 +43,7 @@ Here's an example scenario to demonstrate how to use the FileEncryption applicat
 
 ## Screenshots / Live Video Demo
 
-You can find a live video demonstration of the FileEncryption application [here](https://www.youtube.com/your_video_link).
+You can find a live video demonstration of the FileEncryption application [here](https://youtu.be/aI-ALVN5N5I).
 
 ![FileEncryption Screenshot](https://i.ibb.co/gd7q859/pika-1684067950773-1x.jpg)
 
