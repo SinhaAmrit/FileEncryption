@@ -2,7 +2,7 @@
 
 FileEncryption is a Java application that provides a simple GUI interface for encrypting and decrypting files using XOR-based encryption. This application allows you to select a file, specify an encryption/decryption key, and perform the encryption or decryption operation.
 
-![FileEncryption Screenshot](/path/to/screenshot.png)
+![FileEncryption Screenshot](https://i.ibb.co/gd7q859/pika-1684067950773-1x.jpg)
 
 ## Features
 
@@ -16,7 +16,7 @@ FileEncryption is a Java application that provides a simple GUI interface for en
 
 To use the FileEncryption application, you need to have Java Development Kit (JDK) installed on your system.
 
-1. Clone or download the project from the [GitHub repository](https://github.com/your_username/your_repository).
+1. Clone or download the project from the [GitHub repository](https://github.com/SinhaAmrit/FileEncryption).
 2. Open the project in your favorite Java IDE.
 
 ## Usage
@@ -45,7 +45,7 @@ Here's an example scenario to demonstrate how to use the FileEncryption applicat
 
 You can find a live video demonstration of the FileEncryption application [here](https://www.youtube.com/your_video_link).
 
-![FileEncryption Screenshot](/path/to/screenshot.png)
+![FileEncryption Screenshot](https://i.ibb.co/gd7q859/pika-1684067950773-1x.jpg)
 
 
 ## License
